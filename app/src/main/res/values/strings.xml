@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExampleStrategy</string>
+    <string name="not_logged_in">Not logged in</string>
+    <string name="login_facebook">Login with Facebook</string>
+    <string name="login_google">Login with Google</string>
+    <string name="login_twitter">Login with Twitter</string>
+    <string name="login_linkedin">Login with LinkedIn</string>
+</resources>
